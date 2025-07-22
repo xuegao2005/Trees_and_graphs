@@ -221,7 +221,7 @@ int main()
 
 有向图的拓扑序列
 
-![image-20250603204342856](../assets/image-20250603204342856.png)
+![image-20250603204342856](https://github.com/xuegao2005/Trees_and_graphs/blob/main/image-20250603204342856.png)
 
 ```cpp
 #include <iostream>
