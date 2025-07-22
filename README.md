@@ -82,7 +82,7 @@ int main()
 
 树的重心
 
-![image-20250603163534096](../assets/image-20250603163534096.png)
+![image-20250603163534096](https://github.com/xuegao2005/Trees_and_graphs/blob/main/image-20250603163534096.png)
 
 ```cpp
 #include <cstring>
