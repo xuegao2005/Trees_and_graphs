@@ -148,7 +148,7 @@ int main()
 
 图的BFS
 
-![image-20250603191554129](../assets/image-20250603191554129.png)
+![image-20250603191554129](https://github.com/xuegao2005/Trees_and_graphs/blob/main/image-20250603191554129.png)
 
 ```cpp
 #include <iostream>
