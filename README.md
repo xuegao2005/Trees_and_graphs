@@ -32,7 +32,7 @@ int main()
 - `ne[M]`：下一条边数组，存储链表的下一个节点索引。
 - `idx`：全局计数器，记录当前边的编号。
 
-# ![搜索与图论-6](../assets/搜索与图论-6.jpg)
+# ![搜索与图论-6](https://github.com/xuegao2005/Trees_and_graphs/blob/main/%E6%90%9C%E7%B4%A2%E4%B8%8E%E5%9B%BE%E8%AE%BA-6.jpg)
 
 
 
